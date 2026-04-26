@@ -2,8 +2,7 @@
 PhishDNA - URL Threat Analyzer
 ================================
 Author: [Ahmed Yassine Boudhina / Hamdi Chedli]
-GitHub: https://github.com/Ahmed-Yassine-Boudhina/PhishDNA
-
+GitHub: https://github.com/yessine403-lab
 Analyzes a URL across 5 dimensions and produces
 a human-readable threat report explaining every red flag.
 
